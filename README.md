@@ -23,15 +23,28 @@ A aplicação é composta por três partes, um server side utilizando uma api RE
 
 web para cadastro e gerenciamento de Ongs e uma mobile para clientes acessarem os casos cadastrados.
 
+
+Interface Web utilizando React JS.
+
 ![Interface Web utilizando React JS.](/images/omnistack11_2.png?raw=true "interfaceWeb")
+
+Cadastrar novas Ongs.
 
 ![Cadastrar novas Ongs.](/images/omnistack11_1.png?raw=true "interfaceWebRegister")
 
+Página de gerenciamento de casos.
+
 ![Página de gerenciamento de casos.](/images/omnistack11_0.png?raw=true "interfaceWebHome")
+
+Página de cadastro de novos casos.
 
 ![Página de cadastro de novos casos.](/images/omnistack11_3.png?raw=true "interfaceWebCases")
 
-![Interface Mobile utilizando React Native](/images/omnistack11_mobile_0.png?raw=true "interfaceMobile")
+Interface Mobile utilizando React Native
 
-![Página para fazer as doações.](/images/omnistack11_mobile_1.png?raw=true "intefaceMobileDonate")
+![Interface Mobile utilizando React Native](/images/omnistack11_mobile_0.png?raw=true =300x "interfaceMobile")
+
+Página para fazer as doações.
+
+![Página para fazer as doações.](/images/omnistack11_mobile_1.png?raw=true =300x  "intefaceMobileDonate")
 
