@@ -37,6 +37,6 @@ Interface Web utilizando React JS.
 
 Interface Mobile utilizando React Native
 
-<img alt="Interface Mobile utilizando React Native" src="images/omnistack11_mobile_0.png" width="300" >
-<img alt="Página para fazer as doações." src="images/omnistack11_mobile_1.png" width="300" >
+<img src="images/omnistack11_mobile_0.png" width="300" alt="Interface Mobile utilizando React Native">
+<img src="images/omnistack11_mobile_1.png" style="width:300px; margin-left: 100px" alt="Página para fazer as doações.">
 
