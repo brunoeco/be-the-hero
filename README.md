@@ -1,6 +1,6 @@
-#be-the-hero
+# be-the-hero
 
-#Portugues
+## Portugues
 
 Projeto de estudo da Semana Omnistack 11 usando Nodejs, React Js e React Native.
 
@@ -8,7 +8,7 @@ O projeto se baseia em uma aplicação afim de encontrar ONGs que necessitam de 
 
 A aplicação faz a listagem dos casos, quais ONGs eles pertecem e o valor necessário para a realização.
 
-#English
+## English
 
 Omnistack 11 Week study project using Nodejs, React Js and React Native.
 
@@ -17,13 +17,13 @@ The project is based on an application to find NGOs that use financial aid to ca
 The application makes a list of cases, which NGOs they belong to and the amount needed to carry them out.
 
 
-#Partes da Aplicação
+## Partes da Aplicação
 
 A aplicação é composta por três partes, um server side utilizando uma api RESTful, e dois interfaces, uma 
 
 web para cadastro e gerenciamento de Ongs e uma mobile para clientes acessarem os casos cadastrados.
 
-Imagens:
+### Imagens:
 
 Interface Web utilizando React JS.
 
