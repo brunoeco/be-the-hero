@@ -27,17 +27,17 @@ Imagens:
 
 Interface Web utilizando React JS.
 
-<img alt="Interface Web utilizando React JS." src="(/images/omnistack11_2.png?raw=true") >
+<img alt="Interface Web utilizando React JS." src="images/omnistack11_2.png" >
 
-<img alt="Cadastrar novas Ongs." src="(/images/omnistack11_1.png?raw=true") >
+<img alt="Cadastrar novas Ongs." src="images/omnistack11_1.png" >
 
-<img alt="Página de gerenciamento de casos." src="(/images/omnistack11_0.png?raw=true") >
+<img alt="Página de gerenciamento de casos." src="images/omnistack11_0.png" >
 
-<img alt="Página de cadastro de novos casos." src="(/images/omnistack11_3.png?raw=true") >
+<img alt="Página de cadastro de novos casos." src="images/omnistack11_3.png" >
 
 Interface Mobile utilizando React Native
 
-<img alt="Interface Mobile utilizando React Native" src="(/images/omnistack11_mobile_0.png?raw=true") width="300" >
+<img alt="Interface Mobile utilizando React Native" src="images/omnistack11_mobile_0.png" width="300" >
 
-<img alt="Página para fazer as doações." src="(/images/omnistack11_mobile_1.png?raw=true") width="300" >
+<img alt="Página para fazer as doações." src="images/omnistack11_mobile_1.png" width="300" >
 
