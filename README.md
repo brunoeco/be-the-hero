@@ -25,7 +25,7 @@ web para cadastro e gerenciamento de Ongs e uma mobile para clientes acessarem o
 
 ### Imagens:
 
-Interface Web utilizando React JS.
+#### Interface Web utilizando React JS.
 
 <img alt="Interface Web utilizando React JS." src="images/omnistack11_2.png" >
 
@@ -35,7 +35,7 @@ Interface Web utilizando React JS.
 
 <img alt="Página de cadastro de novos casos." src="images/omnistack11_3.png" >
 
-Interface Mobile utilizando React Native
+#### Interface Mobile utilizando React Native
 
 <img src="images/omnistack11_mobile_0.png" width="300" alt="Interface Mobile utilizando React Native">
 <img src="images/omnistack11_mobile_1.png" width="300" alt="Página para fazer as doações.">
