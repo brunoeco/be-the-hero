@@ -23,28 +23,21 @@ A aplicação é composta por três partes, um server side utilizando uma api RE
 
 web para cadastro e gerenciamento de Ongs e uma mobile para clientes acessarem os casos cadastrados.
 
+Imagens:
 
 Interface Web utilizando React JS.
 
-![Interface Web utilizando React JS.](/images/omnistack11_2.png?raw=true "interfaceWeb")
+<img alt="Interface Web utilizando React JS." src="(/images/omnistack11_2.png?raw=true") >
 
-Cadastrar novas Ongs.
+<img alt="Cadastrar novas Ongs." src="(/images/omnistack11_1.png?raw=true") >
 
-![Cadastrar novas Ongs.](/images/omnistack11_1.png?raw=true "interfaceWebRegister")
+<img alt="Página de gerenciamento de casos." src="(/images/omnistack11_0.png?raw=true") >
 
-Página de gerenciamento de casos.
-
-![Página de gerenciamento de casos.](/images/omnistack11_0.png?raw=true "interfaceWebHome")
-
-Página de cadastro de novos casos.
-
-![Página de cadastro de novos casos.](/images/omnistack11_3.png?raw=true "interfaceWebCases")
+<img alt="Página de cadastro de novos casos." src="(/images/omnistack11_3.png?raw=true") >
 
 Interface Mobile utilizando React Native
 
-![Interface Mobile utilizando React Native](/images/omnistack11_mobile_0.png?raw=true =300x "interfaceMobile")
+<img alt="Interface Mobile utilizando React Native" src="(/images/omnistack11_mobile_0.png?raw=true") width="300" >
 
-Página para fazer as doações.
-
-![Página para fazer as doações.](/images/omnistack11_mobile_1.png?raw=true =300x  "intefaceMobileDonate")
+<img alt="Página para fazer as doações." src="(/images/omnistack11_mobile_1.png?raw=true") width="300" >
 
