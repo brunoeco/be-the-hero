@@ -2,7 +2,7 @@
 
 ## Portugues
 
-Projeto de estudo da Semana Omnistack 11 usando Nodejs, React Js e React Native.
+Projeto da Semana Omnistack 11 usando Nodejs, React Js e React Native.
 
 O projeto se baseia em uma aplicação afim de encontrar ONGs que necessitam de ajuda financeira para a realização de seus serviços.
 
